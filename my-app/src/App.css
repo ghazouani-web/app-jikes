@@ -1,0 +1,33 @@
+
+
+.brd {
+    border: 1px solid black;
+    margin: 25px 50px;
+    padding-top: 50px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  background-color:rgb(158, 165, 165);
+
+  }
+
+  .categorie{
+    border: 1px solid black;
+    margin-right: 1290px;
+    background-color: rgb(131, 92, 168);
+  }
+
+  .Uncategorized{
+    background-color: cadetblue;
+    border: 1px solid black;
+    margin-right: 1250px;
+
+  }
+  h1 {
+    text-align: center;
+  }
+
+  button {
+background-color: rgb(156, 156, 243); 
+border-color: rgb(192, 188, 188);
+ }
